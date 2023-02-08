@@ -1,15 +1,12 @@
 
-# Output
-
-
+# Email Validation Check by JavaScript
 ---
 
-Binary Search in C Language
 
 
 
-<img src="BinarySearch.jpg"
-     alt="Markdown Monster icon"/>
+<img src="Email-Validation-Check-by-JavaScript.png"
+     alt="Email Validation Check by JavaScript"/>
 
 
 
